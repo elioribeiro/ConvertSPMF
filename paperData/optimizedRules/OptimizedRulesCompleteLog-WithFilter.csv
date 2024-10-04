@@ -1,0 +1,16 @@
+﻿#Rule ;Antecedent ;Consequent;Lift(A=>B);Sup(A=>B);Conf(A=>B);Sup(A);Sup(B)
+2;W_Completeapplication-A_Validating-A_Denied;O_Refused;8.5437;0.106527763;0.997045305;0.106843453;0.116699989
+4;W_Completeapplication-W_Validateapplication-A_Denied;O_Refused;8.5437;0.106527763;0.997045305;0.106843453;0.116699989
+1;W_Completeapplication-O_Returned-A_Denied;O_Refused;8.5433;0.105159774;0.997006984;0.105475464;0.116699989
+3;A_Submitted-A_Validating-A_Denied;O_Refused;8.5429;0.080500894;0.996959166;0.080746431;0.116699989
+5;A_CreateApplication-W_Validateapplication-A_Denied;O_Refused;8.5396;0.112210179;0.996573209;0.112596022;0.116699989
+6;A_Concept-A_Validating-A_Denied;O_Refused;8.5396;0.112210179;0.996573209;0.112596022;0.116699989
+7;A_Accepted-W_Validateapplication-A_Denied;O_Refused;8.5396;0.112210179;0.996573209;0.112596022;0.116699989
+8;O_CreateOffer-W_Validateapplication-A_Denied;O_Refused;8.5396;0.112210179;0.996573209;0.112596022;0.116699989
+9;W_Callafteroffers-W_Validateapplication-A_Denied;O_Refused;8.5396;0.112210179;0.996573209;0.112596022;0.116699989
+10;O_Created-W_Validateapplication-A_Denied;O_Refused;8.5396;0.112210179;0.996573209;0.112596022;0.116699989
+11;A_Complete-A_Validating-A_Denied;O_Refused;8.5396;0.112210179;0.996573209;0.112596022;0.116699989
+12;O_Sent(mailandonline)-W_Validateapplication-A_Denied;O_Refused;8.5395;0.111613876;0.996554964;0.111999719;0.116699989
+13;W_Validateapplication-A_DeniedW_Handleleads-;O_Refused;8.5306;0.023361044;0.995515695;0.023466274;0.116699989
+14;W_Completeapplication-W_Callincompletefiles-A_Denied;O_Refused;8.499;0.03833877;0.991833031;0.03865446;0.116699989
+15;W_Completeapplication-A_Incomplete-A_Denied;O_Refused;8.499;0.03833877;0.991833031;0.03865446;0.116699989
